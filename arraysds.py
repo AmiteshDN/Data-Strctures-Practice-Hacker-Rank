@@ -2,7 +2,7 @@ from audioop import reverse
 
 
 def reverseArray(a):
-    a.reverse()
+    a.reverse() //Inbuilt function
     return a
 
 
