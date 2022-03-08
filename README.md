@@ -4,17 +4,28 @@ This repository consists of the codes on data structures from the hacker rank pr
 Path to practice in Hacker Rank : hacker Rank > Skills for Practice > Data Structures
 
 Data Structures available for practice:
-Arrays
-Linked Lists
-Trees
-Balanced Trees
-Stacks
-Queues
-Heap
-Disjoint Set
-Multiple Choice
-Trie
-Advanced
+1.Arrays
+
+2.Linked Lists
+
+3.Trees
+
+4.Balanced Trees
+
+5.Stacks
+
+6.Queues
+
+7.Heap
+
+8.Disjoint Set
+
+9.Multiple Choice
+
+10.Trie
+
+11.Advanced
+
 
 I am practicing them in the Hacker rank and uploading the code here after the succesfull execution of the problem including all the test Cases. 
 I advise you to try on your own before going for the solution here, because you might solve with a different and better approach. 
