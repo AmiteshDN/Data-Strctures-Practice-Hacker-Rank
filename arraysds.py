@@ -1,9 +1,5 @@
-from audioop import reverse
-
-
 def reverseArray(a):
-    a.reverse()
-    return a
+    return (a[::-1])  # reverse slicing
 
 
 if __name__ == '__main__':
