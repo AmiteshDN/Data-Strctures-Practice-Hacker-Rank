@@ -1,14 +1,7 @@
 def rotateLeft(d, arr):
-    while d > 0:
-        c = arr[0]
-        for j in range(len(arr)):
-            if j == len(arr)-1:
-                arr[j] = c
-            else:
-                arr[j] = arr[j + 1]
-        d -= 1
-
-    return arr
+    # for the 'n' number of left shifts, slice the list from 'n'
+    # add the list upto 'n'
+    return (arr[d:] + arr[:d])
 
 
 if __name__ == '__main__':
